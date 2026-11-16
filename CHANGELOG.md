@@ -4,6 +4,10 @@ Each entry is one version of this Railway template. Breaking changes come first.
 Railway shows deployers an "update available" notice when `main` changes; read the
 entry before you apply it.
 
+## 3.5.0-1 (2026-11-16)
+
+- README: add the Deploy on Railway button for the published template (`umami-3`). No change to the deployed app.
+
 ## 3.5.0 (2026-11-16)
 
 - First release of the template: Umami 3.5.0
